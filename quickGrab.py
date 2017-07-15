@@ -1,4 +1,4 @@
-import ImageGrab
+from PIL import ImageGrab
 import os
 import time
 
