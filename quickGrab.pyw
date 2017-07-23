@@ -1,3 +1,12 @@
+"""
+
+game website: http://armorgames.com/play/124/sushi-go-round 
+
+All coordinates assume a screen resolution of 1280x1024 and Chrome 
+maximized with the Bookmarks Toolbar enabled.
+
+"""
+
 from PIL import ImageGrab
 import os
 import time
