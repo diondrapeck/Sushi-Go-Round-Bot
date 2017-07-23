@@ -5,6 +5,8 @@ game website: http://armorgames.com/play/124/sushi-go-round
 All coordinates assume a screen resolution of 1280x1024 and Chrome 
 maximized with the Bookmarks Toolbar enabled.
 
+Down key has been hit 2 times to center play area in browser.
+
 """
 
 from PIL import ImageGrab
